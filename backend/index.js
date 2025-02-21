@@ -24,9 +24,9 @@ app.post("/bfhl", (req, res) => {
 
         res.status(200).json({
             is_success: true,
-            user_id: "22bcs50175",
-            college_email_id:"alizaasif2004@gmail.com",
-            college_roll_number: "22bcs50175",
+            user_id: "22bcs11999",
+            college_email_id:"22bcs11999@cuchd.in",
+            college_roll_number: "22bcs11999",
             numbers,
             alphabets,
             highest_alphabet: highestAlphabet
